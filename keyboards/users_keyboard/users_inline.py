@@ -54,7 +54,7 @@ async def build_xizmat_keyboard(category, bolim):
         for service_id, name in xizmatlar:
             service_data = get_service_by_id(service_id)
             narx = service_data["narxi"]
-            builder.button(text=f"{name} - {narx}", callback_data=f"xizmat:{service_id}")
+            builder.button(text=f"{name} - {narx} so'm", callback_data=f"xizmat:{service_id}")
         builder.button(text="⬅️ Ortga", callback_data=f"back:bolim:{category}")
         builder.adjust(1)
         return builder.as_markup()
