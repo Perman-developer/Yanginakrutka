@@ -1,0 +1,109 @@
+Traceback (most recent call last):
+  File "/root/Nakrutkabot/main.py", line 3, in <module>
+    from aiogram import Bot, Dispatcher
+ModuleNotFoundError: No module named 'aiogram'
+INFO:root:Starting bot...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @ChatSmmProBot id=8050417005 - 'Chat Smm Pro Bot'
+INFO:aiogram.event:Update id=375301601 is handled. Duration 174 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301600 is handled. Duration 195 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301602 is handled. Duration 216 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301603 is handled. Duration 80 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301604 is handled. Duration 346 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301605 is handled. Duration 171 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301606 is handled. Duration 136 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301607 is handled. Duration 125 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301608 is handled. Duration 123 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301609 is handled. Duration 198 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301610 is handled. Duration 85 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301611 is handled. Duration 459 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301612 is handled. Duration 66 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301613 is handled. Duration 104 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301614 is handled. Duration 77 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301615 is handled. Duration 75 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301616 is not handled. Duration 4 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301617 is not handled. Duration 5 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301618 is handled. Duration 255 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301619 is handled. Duration 145 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301620 is handled. Duration 86 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301621 is handled. Duration 95 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301622 is handled. Duration 213 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301623 is handled. Duration 122 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301624 is handled. Duration 112 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301625 is handled. Duration 127 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301626 is handled. Duration 170 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301627 is handled. Duration 121 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301628 is handled. Duration 143 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301629 is handled. Duration 173 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301630 is handled. Duration 130 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301631 is handled. Duration 128 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301632 is handled. Duration 211 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301633 is handled. Duration 191 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301634 is handled. Duration 176 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301635 is handled. Duration 139 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301636 is handled. Duration 124 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301637 is handled. Duration 172 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301638 is handled. Duration 68 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301639 is not handled. Duration 3 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301640 is handled. Duration 108 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301641 is handled. Duration 76 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301642 is handled. Duration 65 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301643 is handled. Duration 335 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301644 is handled. Duration 201 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301645 is not handled. Duration 4 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301646 is handled. Duration 67 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301647 is handled. Duration 77 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301648 is handled. Duration 74 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301649 is handled. Duration 90 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301650 is handled. Duration 80 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301651 is handled. Duration 73 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301652 is handled. Duration 231 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301653 is handled. Duration 137 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301654 is handled. Duration 186 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301655 is handled. Duration 76 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301656 is handled. Duration 159 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301657 is handled. Duration 138 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301658 is handled. Duration 277 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301659 is handled. Duration 158 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301660 is handled. Duration 118 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301661 is handled. Duration 153 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301662 is handled. Duration 137 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301663 is handled. Duration 221 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301664 is handled. Duration 86 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301665 is handled. Duration 71 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301666 is handled. Duration 89 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301667 is handled. Duration 206 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301668 is handled. Duration 67 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301669 is handled. Duration 92 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301670 is handled. Duration 81 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301671 is handled. Duration 70 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301672 is handled. Duration 76 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301673 is handled. Duration 181 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301674 is handled. Duration 136 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301675 is handled. Duration 75 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301676 is handled. Duration 63 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301677 is handled. Duration 194 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301678 is handled. Duration 124 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301679 is handled. Duration 130 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301680 is handled. Duration 134 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301681 is handled. Duration 205 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301682 is handled. Duration 115 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301683 is handled. Duration 82 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301684 is handled. Duration 528 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301685 is handled. Duration 106 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301686 is handled. Duration 309 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301687 is handled. Duration 73 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301688 is handled. Duration 191 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301689 is handled. Duration 201 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301690 is handled. Duration 162 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301691 is handled. Duration 360 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301692 is handled. Duration 84 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301693 is handled. Duration 273 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301694 is handled. Duration 204 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301695 is handled. Duration 223 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301696 is handled. Duration 174 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301697 is handled. Duration 248 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301698 is handled. Duration 151 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301699 is handled. Duration 145 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301700 is handled. Duration 139 ms by bot id=8050417005
+INFO:aiogram.event:Update id=375301701 is handled. Duration 276 ms by bot id=8050417005
